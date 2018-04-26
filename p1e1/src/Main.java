@@ -3,9 +3,9 @@ import java.util.Date;
 import java.util.Scanner;
 
 /**
- * Escribir un programa que en el método main, solicite un nombre y muestre “Hola <nombre
- * ingresado>” y debajo, la fecha y hora actual con el siguiente formato de ejemplo “viernes
- * 20/04/2018 18:00”. Validar que el mensaje no se muestre hasta tanto no se haya ingresado un
+ * Escribir un programa que en el mÃ©todo main, solicite un nombre y muestre "Hola <nombre
+ * ingresado>" y debajo, la fecha y hora actual con el siguiente formato de ejemplo "viernes
+ * 20/04/2018 18:00". Validar que el mensaje no se muestre hasta tanto no se haya ingresado un
  * nombre. 
  */
 
