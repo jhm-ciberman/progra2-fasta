@@ -1,5 +1,11 @@
 package p2e2;
 
-public class Client {
+import java.util.Date;
+
+public class Client extends User {
+
+	Client(String name, Date birthday) {
+		super(name, birthday);
+	}
 
 }
